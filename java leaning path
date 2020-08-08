@@ -1,0 +1,38 @@
+how to start java leaning path: - java brain - youtube
+======================================================
+core java:
+
+ basics - for loop, if
+ oop
+ generics
+ concurrency APIs
+ collections APIs
+ 
+Testing: 
+ JUnit 
+ Mockito
+ 
+ServerSide Developement: backend programming 
+ spring framework
+ spring MVC - API
+ Hibernate - ORM
+ Spring Boot
+ spring projects- MicroServices
+ 
+ JAVA EE
+ 
+ JPA
+ 
+Design Patterns
+Git
+Build System:
+ Maven
+ Gradle
+ CICD
+MicroServices
+ DS Algorithms
+ 
+ 
+ koushikkothagal
+ 
+ bclozel/issues-dashboard
